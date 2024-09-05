@@ -74,7 +74,7 @@ insertion sort (out of the box, this sort will do nothing).
     sort.h.
 
 ## Sample Output
-
+```bash
 jimr@JimRBeastCanyon:\~/CS3050\$ ./mysort
 
 Bubble Sort:
@@ -208,3 +208,4 @@ Albert Pujols (42), Neil Blanck (53), Bill Moser (54), Larry Ries (54),
 Robert Bisby (56), David Polly (56), Jim Ries (56),
 
 \*\* Comparisons = 23, Swaps = 0, Copies = 0 \*\*
+```
